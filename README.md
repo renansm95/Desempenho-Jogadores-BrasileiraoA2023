@@ -1,5 +1,7 @@
 # Desempenho Jogadores Brasileirão A 2023
 
+Este projeto teve o intuito de me ajudar na prática dos estudos com um assunto que gosto bastante, o futebol.
+
 Análise de Desempenho de Jogadores
 Este repositório contém um código para analisar o desempenho de jogadores de futebol com base em suas estatísticas de gols e partidas jogadas. Utilizando Python, as bibliotecas Pandas, Matplotlib e Seaborn são usadas para carregar, processar e visualizar os dados, além de calcular métricas como a média de gols por partida e projeção de gols para 38 jogos, que é a quantidade de jogos total do campeonato Brasileiro.
 
@@ -27,10 +29,3 @@ Este repositório contém um código para analisar o desempenho de jogadores de 
   - Gráfico 3: Projeção de Gols para 38 Jogos
 
     Esse gráfico mostra a projeção de gols de cada jogador considerando um total de 38 jogos.
-
-🔧 Como Rodar o Projeto
-Pré-requisitos
-Certifique-se de que você tem as seguintes dependências instaladas:
-
-Python 3.x
-Bibliotecas necessárias: pandas, matplotlib, seaborn, numpy, openpyxl
