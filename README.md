@@ -3,12 +3,12 @@
 Análise de Desempenho de Jogadores
 Este repositório contém um código para analisar o desempenho de jogadores de futebol com base em suas estatísticas de gols e partidas jogadas. Utilizando Python, as bibliotecas Pandas, Matplotlib e Seaborn são usadas para carregar, processar e visualizar os dados, além de calcular métricas como a média de gols por partida e projeção de gols para 38 jogos, que é a quantidade de jogos total do campeonato Brasileiro.
 
-🚀 Funcionalidades
+🚀 Funcionalidades<br>
 Cálculo da Média de Gols por Partida: Calcula a média de gols por partida de cada jogador.
 Visualização Gráfica: Gráficos de barras mostrando os gols de cada jogador e a média de gols por partida.
 Projeção de Gols para 38 Jogos: Calcula uma projeção dos gols de cada jogador para o total de 38 jogos.
 
-🛠️ Tecnologias Usadas
+🛠️ Tecnologias Usadas<br>
 Python
 Pandas
 Matplotlib
