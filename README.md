@@ -29,6 +29,12 @@ Este repositório contém um código para analisar o desempenho de jogadores de 
 
     Mostra a média de gols por partida de cada jogador.
 
+    ![image](https://github.com/user-attachments/assets/6f64c512-133d-48c9-93e9-07599186db75)
+
+
   - Gráfico 3: Projeção de Gols para 38 Jogos
 
     Esse gráfico mostra a projeção de gols de cada jogador considerando um total de 38 jogos.
+
+    ![image](https://github.com/user-attachments/assets/64ca0a99-ce60-4bb2-9b84-e816d8384654)
+
