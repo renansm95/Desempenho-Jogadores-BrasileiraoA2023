@@ -1,6 +1,6 @@
 # Desempenho Jogadores Brasileirão A 2023
 
-Este projeto teve o intuito de me ajudar na prática dos estudos com um assunto que gosto bastante, o futebol.
+Este projeto teve o intuito de me ajudar na prática dos estudos com um assunto que gosto bastante: futebol.
 
 Análise de Desempenho de Jogadores
 Este repositório contém um código para analisar o desempenho de jogadores de futebol com base em suas estatísticas de gols e partidas jogadas. Utilizando Python, as bibliotecas Pandas, Matplotlib e Seaborn são usadas para carregar, processar e visualizar os dados, além de calcular métricas como a média de gols por partida e projeção de gols para 38 jogos, que é a quantidade de jogos total do campeonato Brasileiro.
@@ -21,6 +21,9 @@ Este repositório contém um código para analisar o desempenho de jogadores de 
   - Gráfico 1: Gols por Jogador
 
     Este gráfico mostra a quantidade de gols de cada jogador.
+
+    ![image](https://github.com/user-attachments/assets/69f75e31-2953-4c43-928c-38d7f95bd03c)
+
 
   - Gráfico 2: Média de Gols por Partida
 
